@@ -71,7 +71,7 @@ File Name: responsive.css
     margin-right: 0;
 }
 .cont_img { margin-right: 0px;}
-.creative h1 {
+.creative h1, .creative h1.small {
     padding-bottom: 19px;
     font-size: 50px;
     line-height: 50px;
@@ -115,7 +115,7 @@ ul.top_infomation li {
     margin-right: 0;
 
 }
-.creative h1 {
+.creative h1, .creative h1.small {
     padding-bottom: 19px;
     font-size: 50px;
     line-height: 50px;
@@ -225,7 +225,7 @@ ul.top_infomation  {
 
 }
 .about .titlepage {max-width: inherit;}
-.creative h1 {
+.creative h1, .creative h1.small {
     padding-bottom: 19px;
     font-size: 38px;
     line-height: 45px;
